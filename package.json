@@ -1,0 +1,25 @@
+{
+  "name": "think41-2nd-round",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000T\u0000h\u0000i\u0000n\u0000k\u00004\u00001\u0000-\u00002\u0000n\u0000d\u0000 \u0000r\u0000o\u0000u\u0000n\u0000d\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ranjankrs/Think41-2ndround.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ranjankrs/Think41-2ndround/issues"
+  },
+  "homepage": "https://github.com/Ranjankrs/Think41-2ndround#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "csv-parser": "^3.2.0",
+    "express": "^5.1.0"
+  }
+}
