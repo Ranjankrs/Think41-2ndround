@@ -7,7 +7,7 @@ const app = express();
 const PORT = 3000;
 app.use(cors());
 
-const datasetPath = './ecommerce-dataset/archive/';
+const datasetPath = './ecommerce-dataset/archive/archive/';
 
 // Top 5 most sold products
 app.get('/top-products', (req, res) => {
